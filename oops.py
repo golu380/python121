@@ -41,6 +41,6 @@ student1 = Student("lucky",20,80)
 
 print(student1.name)
 print(student1.age)
-print(student1.__marks)
+# print(student1.__marks)
 print("printing with mentod")
 student1.displaydata()
